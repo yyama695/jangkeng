@@ -1,0 +1,87 @@
+@charset "utf-8";
+
+* {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 0;
+}
+
+body {
+	font-size: 85%;
+	text-align: left;
+	font-family: "ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3" sans-serif;
+	padding: 0;
+	margin: 0;
+	background-color: #55FFFF;
+	line-height: 120%;
+}
+
+h1 {
+	font-size: 160%;
+	font-weight: 800;
+	height: 20px;
+	padding: 0 0 0 20px;
+	white-space: nowrap;
+	color: #000000;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2 {
+	font-size: 160%;
+	font-weight: 800;
+	height: 20px;
+	padding: 0 0 0 20px;
+	white-space: nowrap;
+	color: #000000;
+	text-align: left;
+}
+
+h3,h4,h5,h6 {
+	font-size: 160%;
+	font-weight: normal;
+	height: 50px;
+	padding: 0 0 0 20px;
+	white-space: nowrap;
+	color: #006600
+}
+
+.defBtn {
+	width: 100px;
+	height: 30px
+}
+
+.mainTbl {
+	margin-left: auto;
+	background-color: #55FFFF;
+	margin-right: auto;
+	text-align: center;
+	border-collapse: separate;
+	border-spacing: 0;
+}
+
+.tbl {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center
+}
+
+caption {
+	font-size: 160%;
+	font-weight: bold;
+	height: 20px;
+	padding: 0 0 0 20px;
+	white-space: nowrap;
+	color: #000000;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+th,td {
+	white-space: nowrap;
+	padding: 0px 10px;
+}
